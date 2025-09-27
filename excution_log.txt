@@ -1,0 +1,2 @@
+automateMath ran in 5.0748 seconds
+validateEmails ran in 0.0026 seconds

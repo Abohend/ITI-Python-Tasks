@@ -1,0 +1,32 @@
+[
+  {
+    "product": "Mo3taz",
+    "price": 2.0,
+    "discounted": 1.8
+  },
+  {
+    "product": "safwat",
+    "price": 2.0,
+    "discounted": 1.8
+  },
+  {
+    "product": "nagwa",
+    "price": 4.0,
+    "discounted": 3.6
+  },
+  {
+    "product": "retal",
+    "price": 5.0,
+    "discounted": 4.5
+  },
+  {
+    "product": "asil",
+    "price": 9.0,
+    "discounted": 8.1
+  },
+  {
+    "product": "adele",
+    "price": 2.0,
+    "discounted": 1.8
+  }
+]
